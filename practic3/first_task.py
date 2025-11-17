@@ -16,4 +16,4 @@ def string_slicing():
     print(f"Start index {required_start_index} (19 symb), step {required_step}:")
     print(f"'{sliced_result}'")
 
-string_slicing_task()
+string_slicing()
